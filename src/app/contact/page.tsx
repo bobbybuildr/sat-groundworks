@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ContactForm } from "@/components/ContactForm";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "Contact SAT Groundworks",
@@ -71,7 +71,15 @@ export default function ContactPage() {
           </div>
         </aside>
 
-        {/* <ContactForm /> */}
+        <div className="flex justify-center rounded-xl px-2 sm:px-6 lg:px-8 lg:block lg:content-center">
+          <Image
+            src="/sat_logo_master.png"
+            alt="SAT Groundworks Logo"
+            width={600}
+            height={400}
+            className="object-center"
+          />
+        </div>
       </div>
     </section>
   );
