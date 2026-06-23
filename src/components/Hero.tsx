@@ -42,7 +42,7 @@ export function Hero() {
             Get a Free Quote
           </Link>
           <Link
-            href="tel:01527458989"
+            href="tel:07976763199"
             className="inline-flex items-center justify-center rounded-md border border-white/30 px-6 py-3 text-sm font-bold uppercase tracking-[0.12em] text-white transition hover:border-brand hover:text-brand"
           >
             Call Now

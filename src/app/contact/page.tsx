@@ -38,12 +38,9 @@ export default function ContactPage() {
               <span className="block text-xs font-semibold uppercase tracking-[0.12em] text-slate-400">
                 Phone
               </span>
-              <Link href="tel:01527458989" className="transition hover:text-brand">
-                01527 458 989
-              </Link>{" "}/ {" "}
-              <span>
-                07976 73 199
-              </span>
+              <Link href="tel:07976763199" className="transition hover:text-brand">
+                07976 763 199
+              </Link>
             </p>
             <p>
               <span className="block text-xs font-semibold uppercase tracking-[0.12em] text-slate-400">
