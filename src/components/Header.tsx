@@ -22,7 +22,7 @@ export function Header() {
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center gap-3" aria-label="SAT Groundworks Home">
           <Image
-            src="/sat_logo_transparent.png"
+            src="/sat_logo_minimal.png"
             alt="SAT Groundworks and Tarmac Services logo"
             width={60}
             height={29}
