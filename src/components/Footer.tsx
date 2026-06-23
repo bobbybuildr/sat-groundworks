@@ -14,10 +14,6 @@ const accreditationImages = [
     src: "/accreditations/warwickshire_council.jpg",
     alt: "Warwickshire Council accreditation",
   },
-  {
-    src: "/accreditations/worcestershire_council.jpg",
-    alt: "Worcestershire Council accreditation",
-  },
 ];
 
 export function Footer() {

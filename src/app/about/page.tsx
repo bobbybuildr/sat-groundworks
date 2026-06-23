@@ -21,7 +21,7 @@ export default function AboutPage() {
         <div className="mt-8 space-y-5 text-base leading-relaxed text-slate-300">
           <p>
             SAT Groundworks and Tarmac Services is an established family-run business with over
-            fifteen years of experience in the surfacing industry.
+            thirty years of experience in the surfacing industry.
           </p>
           <p>
             The company&apos;s reputation has grown through a simple approach: customer satisfaction
@@ -41,7 +41,7 @@ export default function AboutPage() {
       <section className="border-y border-white/10 bg-slate-900/50">
         <div className="mx-auto grid w-full max-w-6xl gap-5 px-4 py-14 sm:grid-cols-2 sm:px-6 lg:grid-cols-4 lg:px-8">
           <article className="rounded-lg border border-white/10 bg-slate-950/50 p-5">
-            <p className="font-heading text-3xl font-bold text-brand">15+</p>
+            <p className="font-heading text-3xl font-bold text-brand">30+</p>
             <p className="mt-2 text-sm uppercase tracking-[0.1em] text-slate-300">Years experience</p>
           </article>
           <article className="rounded-lg border border-white/10 bg-slate-950/50 p-5">

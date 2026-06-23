@@ -56,13 +56,6 @@ export const services: Service[] = [
     icon: "pathway",
   },
   {
-    title: "Softpour Rubber Surfacing",
-    description:
-      "Specialist design and installation of wet pour, non-slip rubber surfacing for playgrounds, pathways, car parks and gardens, creating practical and safe surfaces in all weather.",
-    image: "/services/softpour-resin.jpg",
-    icon: "softpour",
-  },
-  {
     title: "Artificial Grass Surfacing",
     description:
       "Durable astroturf artificial lawns offer a low-maintenance option for gardens. SAT installs surfaces over decking, paving and concrete while ensuring levels and drainage are correct.",

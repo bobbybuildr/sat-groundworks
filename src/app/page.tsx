@@ -55,7 +55,7 @@ export default function Home() {
           </h2>
           <p className="mt-6 max-w-4xl text-base leading-relaxed text-slate-300">
             SAT Groundworks and Tarmac Services is an established family-run business with
-            over fifteen years of surfacing experience. Customer satisfaction remains the first
+            over thirty years of surfacing experience. Customer satisfaction remains the first
             and foremost concern across private and public contracts, with work spanning from
             domestic driveways and footpaths to commercial surfacing projects.
           </p>
