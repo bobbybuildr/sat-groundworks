@@ -1,0 +1,72 @@
+export type Service = {
+  title: string;
+  description: string;
+  image?: string;
+  icon?: string;
+};
+
+export const services: Service[] = [
+  {
+    title: "Driveway Surfacing",
+    description:
+      "A quality driveway improves access and parking while adding real value to your property. SAT delivers first-class finishes across block paving and paved styles, from contemporary to classic.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "driveway",
+  },
+  {
+    title: "Car Park Surfacing",
+    description:
+      "SAT delivers commercial surfacing with quality planning, workmanship and materials. Projects include drainage considerations, layout planning and line-marking requirements for lasting performance.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "carpark",
+  },
+  {
+    title: "Footpaths and Drop Kerbs",
+    description:
+      "From footpath resurfacing to professionally constructed dropped kerbs, SAT provides neat and compliant access solutions for both domestic and commercial requirements.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "kerb",
+  },
+  {
+    title: "Tarmac Surfacing",
+    description:
+      "Tarmac remains a popular choice for longevity, flexibility and durability. SAT undertakes driveway, parking bay and other surfacing works with black or coloured tarmac at affordable prices.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "tarmac",
+  },
+  {
+    title: "Block Paving",
+    description:
+      "Made to last and available in numerous styles, colours and sizes, block paving offers a highly individual finish. Traditional patterns such as herringbone and basket weave are available.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "block",
+  },
+  {
+    title: "Resin Bonded Gravel Driveways",
+    description:
+      "Resin bonded gravel gives the appearance of loose gravel with a stronger, longer-lasting finish. Aggregate is bonded to hard standings using epoxy binders for a durable anti-skid surface.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "resin",
+  },
+  {
+    title: "Pathways",
+    description:
+      "SAT works on new and existing pathways for varied client requirements, offering surfaces including asphalt, macadam, block paving, shingle and surface dressing to relevant highway standards.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "pathway",
+  },
+  {
+    title: "Softpour Rubber Surfacing",
+    description:
+      "Specialist design and installation of wet pour, non-slip rubber surfacing for playgrounds, pathways, car parks and gardens, creating practical and safe surfaces in all weather.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "softpour",
+  },
+  {
+    title: "Artificial Grass Surfacing",
+    description:
+      "Durable astroturf artificial lawns offer a low-maintenance option for gardens. SAT installs surfaces over decking, paving and concrete while ensuring levels and drainage are correct.",
+    image: "/gallery/IMG_20260617_121444 (1) (7).jpg",
+    icon: "grass",
+  },
+];
