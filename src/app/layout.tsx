@@ -19,6 +19,7 @@ const rajdhani = Rajdhani({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://satgroundworks.com"),
+  manifest: "/site.webmanifest",
   title: {
     default: "SAT Groundworks & Tarmac Services | Redditch",
     template: "%s | SAT Groundworks",
@@ -45,6 +46,14 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  icons: {
+    icon: [
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
+    shortcut: ["/favicon.ico"],
   },
 };
 
